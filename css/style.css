@@ -1,4 +1,5 @@
 /* Starting section style starts here */
+
 .welcome-h1 {
     font-style: normal;
     font-size: 90px;
@@ -16,8 +17,8 @@
 }
 
 .button {
-    color: #f0ecdf;
-    background-color: #ff9c4a;
+    color: #f0ebda;
+    background-color: #fa903a;
 }
 
 #Jacket {
@@ -29,37 +30,64 @@
 .penguin-winter-center {
     margin-top: 5rem;
 }
+
 /* Starting section style ends here */
 
 /* Woman and Man Jacket Section style starts here*/
+
 .cart-price {
-    color: darkgreen;
+    color: #4c944c;
     font-weight: 700;
 }
 
 .man-jacket-card {
     padding: 0 20px;
 }
+
 /* global image style for woman & Mans Jacket section */
-.image-style { 
+
+.image-style {
     width: 100%;
     height: 360px;
     padding: 45px 65px;
     background: #F1F1F1;
     border-radius: 25px;
 }
+
 /* Woman and Man Jacket Section style ends here*/
 
- /* global background-style for all cards */
-.background-style{
+/* global background-style for all cards */
+
+.background-style {
     background-color: ghostwhite;
-    border: transparent;
     border-radius: 25px;
-    
 }
-.card{
+
+.penguin-Card {
     border-style: none;
 }
-.card-title{
+
+.penguin-Card-footer {
+    border-style: none;
+}
+
+.penguin-card-titles {
+    color: #0c0d53;
+}
+
+.clear-button {
+    background-color: #ff4c4c;
+    color: #f0ecdf;
+}
+
+.submit-button {
+    background-color: #2fc05b;
+    color: #f0ecdf;
+}
+.connected-footer{
     color: #131458;
+}
+#connet-footer-id{
+    color: #ff8800;
+
 }
