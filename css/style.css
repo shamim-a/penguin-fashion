@@ -1,0 +1,31 @@
+.welcome-h1{
+    font-style: normal;
+    font-size: 90px;
+    line-height: 85px;
+    font-family:'Bebas Neue', cursive;
+    margin-top: 20px;
+}
+.penguin{
+    color: #91c251;
+}
+#winter{
+    color: #131458; 
+}
+.col-6 p{
+    font-family: sans-serif;
+}
+.button{
+    color: #f0ecdf;
+    background-color: #ff9c4a;
+}
+#Jacket{
+    color: #131458;
+    font-family:'Bebas Neue', cursive;
+}
+.penguin-winter-center{
+    margin-top: 5rem;
+}
+.cart-price{
+    color: darkgreen;
+    font-weight: 700;
+}
